@@ -34,12 +34,12 @@
     "rxjs": "^6.3.3",
     "ts-jest": "^23.10.4",
     "typescript": "^3.1.6",
-    "typescript-fsa": "^2.5.0",
+    "typescript-fsa": "^3.0.0",
     "typescript-fsa-reducers": "^1.0.0"
   },
   "peerDependencies": {
     "redux-observable": "1.x",
     "rxjs": "6.x",
-    "typescript-fsa": "2.x"
+    "typescript-fsa": "3.x"
   }
 }
